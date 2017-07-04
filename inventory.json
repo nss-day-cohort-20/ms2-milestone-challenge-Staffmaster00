@@ -1,0 +1,25 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Honda",
+      "model": "Fit",
+      "year": "2009",
+      "price": "4999",
+      "description": "This is an immaculate 2009 Honda Fit with only 43000 miles on it. Power everything."
+    },
+    {
+      "make": "Honda",
+      "model": "Civic",
+      "year": "2007",
+      "price": "7999",
+      "description": "This is an immaculate 2007 Nissan Rogue with only 33000 miles on it. Leather seats, power everything."
+    }
+  ]
+}
