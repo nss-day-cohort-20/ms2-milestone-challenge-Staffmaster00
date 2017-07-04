@@ -32,10 +32,9 @@ var CarLot = (function(globalScopeCarLot) {
         _car_inventory.push(carJsonObj) //return?
     }
 
-    // inventory.getArray = function() {
-    //     console.log("inventory", inventory);
-    //     return _car_inventory
-    // }
+    inventory.getCounter = function(){
+      return _car_inventory.length;
+    }
 
     globalScopeCarLot.Inventory = inventory;
     return globalScopeCarLot;
